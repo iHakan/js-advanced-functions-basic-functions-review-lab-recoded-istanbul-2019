@@ -24,6 +24,6 @@ let Calculator = {
       if(arr.length === 0){
         return a;
       }else{
-        return (a+1)-10;
+        return arr[2];
       }
 }
