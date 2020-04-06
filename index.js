@@ -9,7 +9,7 @@ let mondayWork = function(activity="go to the office"){
 
 let wrapAdjective = function(par1="*"){
   return function(par2="special"){
-    return `You are ${par1}${par2}${par1}`;
+    return `You are ${par1}${par2}${par1}!`;
   }
 }
 
