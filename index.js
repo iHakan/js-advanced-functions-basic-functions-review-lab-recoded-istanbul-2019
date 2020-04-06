@@ -1,4 +1,4 @@
 // Your code here
-function saturdayFun(dots="...", default="roller-skate"){
+function saturdayFun(dots="...", "roller-skate"){
   return `This Saturday, I want to ${dots}!`;
 }
