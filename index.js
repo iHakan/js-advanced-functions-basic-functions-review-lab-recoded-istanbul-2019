@@ -14,5 +14,8 @@ let wrapAdjective = function(par1="*"){
 }
 
 let Calculator = {
-  add:"function(){return 1+3}"
+  add:function(){return 1+3},
+  substract: function(){return 1-3},
+  multipliy: function(){return 1*3},
+  divide :function(){return 10/5}
 }
