@@ -21,5 +21,9 @@ let Calculator = {
 }
 
  function actionApplyer(a, arr=[]){
-      return arr[2]; 
+      if(arr==""){
+        return ;
+      }else{
+        return arr[2];
+      }
 }
