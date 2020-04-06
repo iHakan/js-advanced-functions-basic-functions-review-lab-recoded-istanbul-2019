@@ -13,4 +13,4 @@ let wrapAdjective = function(par1="*"){
   }
 }
 
-let Calculator = new unction add(){}
+let {add, , substract, multiply} = 
