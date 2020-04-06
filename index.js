@@ -6,3 +6,9 @@ function saturdayFun(dots="roller-skate" ){
 let mondayWork = function(activity="go to the office"){
   return `This Monday, I will ${activity}.`
 }
+
+let wrapAdjective = function(par1="*"){
+  return function(par2="special"){
+    return `You are ${par2}`;
+  }
+}
