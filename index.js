@@ -20,3 +20,6 @@ let Calculator = {
   divide :function(){return 10/5}
 }
 
+function actionApplyer(){
+  
+}
