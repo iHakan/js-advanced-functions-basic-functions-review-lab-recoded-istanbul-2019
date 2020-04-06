@@ -4,5 +4,5 @@ function saturdayFun(dots="roller-skate" ){
 }
 
 let mondayWork = function(activity){
-  return ``
+  return `This Monday, I will ${activity}.`
 }
