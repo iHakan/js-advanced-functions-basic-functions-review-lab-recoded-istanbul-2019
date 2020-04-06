@@ -13,4 +13,6 @@ let wrapAdjective = function(par1="*"){
   }
 }
 
-let {add, , substract, multiply} = 
+let Calculator = {
+  add:"function(){return 1+3}"
+}
