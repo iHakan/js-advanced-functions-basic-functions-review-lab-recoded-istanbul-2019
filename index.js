@@ -20,6 +20,6 @@ let Calculator = {
   divide :function(){return 10/5}
 }
 
- function actionApplyer(){
-        return; 
+ function actionApplyer(int, arr=[]){
+      return int; 
 }
