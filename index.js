@@ -19,3 +19,4 @@ let Calculator = {
   multiply: function(){return 1*3},
   divide :function(){return 10/5}
 }
+
