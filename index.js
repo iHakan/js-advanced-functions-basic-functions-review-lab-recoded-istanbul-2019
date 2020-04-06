@@ -13,4 +13,4 @@ let wrapAdjective = function(par1="*"){
   }
 }
 
-wrapAdjective("%")("a dedicated programmer");
+//wrapAdjective("%")("a dedicated programmer");
